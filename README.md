@@ -33,4 +33,4 @@ This website highlights key projects I've worked on, including:
 ## Contact
 Feel free to reach out via:
 - [LinkedIn](https://linkedin.com/in/anthony-giraldi-7b6a3329b)
-- [Email](anthony.giraldi@colorado.edu)
+- [Email](mailto:anthony.giraldi@colorado.edu)
