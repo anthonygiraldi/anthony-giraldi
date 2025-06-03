@@ -1,9 +1,9 @@
 # Anthony Giraldi Portfolio
 
-This repository contains the code and assets for my personal portfolio website, where I showcase my projects in coding, data analysis, and data visualization.
+This repository contains the code and assets for my personal portfolio website, where I showcase my projects in programming, data analysis, and data visualization.
 
 ## About Me
-I'm a driven **Information Science** major with a focus on programming, data analysis, and sports analytics. I’m always looking for new challenges to help improve my skills and contribute to exciting projects.
+I'm a driven **Information Science** major with a focus on programming, data analysis, and artificial intelligence. I’m always looking for new challenges to help improve my skills and contribute to exciting projects.
 
 ## Table of Contents
 - [Overview](#overview)
